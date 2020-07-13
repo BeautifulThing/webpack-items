@@ -1,0 +1,14 @@
+@import './header.css';
+@import './footer.css';
+body{
+    width: 100vw;
+    height: 100vh;
+    /* background: url(./bg1.png) no-repeat;*/
+    background-size: 400px 400px;
+    background-position: center center;
+}
+
+.container {
+    display: flex;
+    background: #999;
+}
